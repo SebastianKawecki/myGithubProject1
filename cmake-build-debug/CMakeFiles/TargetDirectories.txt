@@ -1,0 +1,3 @@
+C:/Users/helloWorld/CLionProjects/myGithubProject1/cmake-build-debug/CMakeFiles/myGithubProject1.dir
+C:/Users/helloWorld/CLionProjects/myGithubProject1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/helloWorld/CLionProjects/myGithubProject1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
